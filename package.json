@@ -1,0 +1,5 @@
+{
+  "name": "@nib-styles/sticky-footer",
+  "version": "0.1.0",
+  "description": "Simple flexbox sticky footer by adding two classes",
+}
