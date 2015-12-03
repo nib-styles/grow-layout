@@ -1,5 +1,16 @@
 {
   "name": "@nib-styles/sticky-footer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple flexbox sticky footer by adding two classes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nib-styles/sticky-footer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nib-styles/sticky-footer/issues"
+  },
+  "homepage": "https://github.com/nib-styles/sticky-footer#readme"
 }
