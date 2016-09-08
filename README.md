@@ -17,3 +17,9 @@ Add `sticky__content` class to the element you wish to expand to take up the rem
         <div class="sticky__content"></div>
         <footer></footer>
      </div>
+
+## Change log
+
+### 0.2.0
+
+- Changed class from `.sticky` to `.sticky-footer` for naming consistency.
