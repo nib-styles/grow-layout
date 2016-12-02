@@ -1,10 +1,10 @@
-.grow_layout {
+.grow-layout {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
-.grow_layout__content{
+.grow-layout__content{
   flex: 1 0 auto;
   display: flex;
 }
