@@ -4,10 +4,10 @@
   "description": "Simple flexbox layout to push footer to bottom by adding two classes",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nib-styles/sticky-footer.git"
+    "url": "git+https://github.com/nib-styles/grow-layout.git"
   },
   "bugs": {
-    "url": "https://github.com/nib-styles/sticky-footer/issues"
+    "url": "https://github.com/nib-styles/grow-layout/issues"
   },
-  "homepage": "https://github.com/nib-styles/sticky-footer#readme"
+  "homepage": "https://github.com/nib-styles/grow-layout#readme"
 }
