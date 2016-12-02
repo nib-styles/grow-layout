@@ -1,6 +1,6 @@
 {
   "name": "@nib-styles/grow-layout",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple flexbox layout to push footer to bottom by adding two classes",
   "repository": {
     "type": "git",
