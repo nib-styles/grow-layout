@@ -1,6 +1,11 @@
 .grow-layout {
   display: flex;
   flex-direction: column;
+}
+
+.grow-layout__wrapper {
+  display: flex;
+  flex-direction: column;
   min-height: 100vh;
 }
 
