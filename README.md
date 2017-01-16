@@ -10,7 +10,7 @@ Simple `flexbox` sticky footer by adding three classes
 
 Add `grow-layout` class to the direct parent element wrapping both the div you wish to expand and the footer.
 
-Unfortunately due to this issue in IE, we need a second wrapping element for this to work.
+Unfortunately due to this [flexbox issue in IE](https://github.com/philipwalton/flexbugs/blob/master/README.md#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items), we need a second wrapping element for this to work.
 
 Wrap your page with two divs with classes of `grow-layout` and `grow-layout__wrapper`. It is important that these divs are direct parents of the div you wish to expand and the header and footer elements.
 
