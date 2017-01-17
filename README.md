@@ -23,3 +23,7 @@ Add `grow-layout__content` class to the element you wish to expand to take up th
             <footer></footer>
         </div>
      </div>
+
+#### Want to change the flex-direction of the content to be vertical?
+
+Add the modifier class `grow-layout__content--direction-column`.
